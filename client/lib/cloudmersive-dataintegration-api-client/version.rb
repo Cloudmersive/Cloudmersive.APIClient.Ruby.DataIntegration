@@ -1,5 +1,5 @@
 =begin
-#Data Integration API
+#dataintegrationapi
 
 #Easily and directly query database backup files, convert into other file formats.
 
@@ -11,5 +11,5 @@ Swagger Codegen version: 2.4.14
 =end
 
 module CloudmersiveDataintegrationApiClient
-  VERSION = '2.0.1'
+  VERSION = '2.0.2'
 end

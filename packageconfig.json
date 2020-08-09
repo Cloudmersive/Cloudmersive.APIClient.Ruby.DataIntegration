@@ -2,7 +2,7 @@
 
   "gemName" : "cloudmersive-dataintegration-api-client",
   "gemLicense": "Apache 2.0",
-  "gemVersion": "2.0.1",
+  "gemVersion": "2.0.2",
   "gemHomepage": "https://cloudmersive.com/data-integration-api",
   "gemSummary": "Easily and directly query database backup files, convert into other file formats.",
   "gemDescription": "Easily and directly query database backup files, convert into other file formats.",
